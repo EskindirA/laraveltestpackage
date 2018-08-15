@@ -1,0 +1,11 @@
+{
+    "name": "eskindir/calculator",
+    "description": "my first laravel package",
+    "authors": [
+        {
+            "name": "Eskindir",
+            "email": "eskindir_ae@yahoo.com"
+        }
+    ],
+    "require": {}
+}
